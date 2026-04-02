@@ -7,6 +7,22 @@ This is a full-stack real-time chat application built using the MERN stack and S
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](ScreenShots/Login.png)
+
+### 👥 Rooms
+![Rooms](ScreenShots/Home.png)
+
+### 💬 Chat Interface
+![Chat](ScreenShots/Chat1.png)
+![Chat 2](ScreenShots/DocumentSend.png)
+![Chat 3](ScreenShots/Chat3.png)
+
+### 📎 File Upload
+![File Upload](ScreenShots/AttachingFiles.png)
+
 ## 🛠️ Tech Stack
 
 ### Frontend
